@@ -1,0 +1,14 @@
+{
+  "name": "backblockchain",
+  "version": "1.0.0",
+  "description": "BACK BLOCK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SmartValley",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
